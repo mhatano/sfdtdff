@@ -1,0 +1,25 @@
+tablename "Œ‚Ìˆê——"
+culture "ja_JP"
+encoding "SHIFT_JIS"
+
+defrecord "Œ" {
+	integer : "index"
+	string  : "Œ–¼"
+	integer : "“ú”"
+	url     : "Wikipedia"
+}
+
+dataof "Œ" {
+	0, "‚PŒ", 31, "https://ja.wikipedia.org/wiki/2022%E5%B9%B4#1%E6%9C%88"
+	1, "‚QŒ", 28, "https://ja.wikipedia.org/wiki/2022%E5%B9%B4#2%E6%9C%88"
+	2, "‚RŒ", 31, "https://ja.wikipedia.org/wiki/2022%E5%B9%B4#3%E6%9C%88"
+	3, "‚SŒ", 30, "https://ja.wikipedia.org/wiki/2022%E5%B9%B4#4%E6%9C%88"
+	4, "‚TŒ", 31, "https://ja.wikipedia.org/wiki/2022%E5%B9%B4#5%E6%9C%88"
+	5, "‚UŒ", 30, "https://ja.wikipedia.org/wiki/2022%E5%B9%B4#6%E6%9C%88"
+	6, "‚VŒ", 31, "https://ja.wikipedia.org/wiki/2022%E5%B9%B4#7%E6%9C%88"
+	7, "‚WŒ", 31, "https://ja.wikipedia.org/wiki/2022%E5%B9%B4#8%E6%9C%88"
+	8, "‚XŒ", 30, "https://ja.wikipedia.org/wiki/2022%E5%B9%B4#9%E6%9C%88"
+	9, "‚P‚OŒ", 31, "https://ja.wikipedia.org/wiki/2022%E5%B9%B4#10%E6%9C%88"
+	10, "‚P‚PŒ", 30, "https://ja.wikipedia.org/wiki/2022%E5%B9%B4#11%E6%9C%88"
+	11, "‚P‚QŒ", 31, "https://ja.wikipedia.org/wiki/2022%E5%B9%B4#12%E6%9C%88"
+}
